@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FestCineApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c62c9e8e3dea8882ac764d5fff65b5875c2b4cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("FestCineApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FestCineApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
